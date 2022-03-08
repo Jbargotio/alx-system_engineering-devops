@@ -10,5 +10,5 @@ file 8-true_knowledge- contains a script that prints addition of 128 with value 
 file 9-divide_and_rule- contains a script that divides POWER and DIVIDE environmental variables
 file 10-love_exponent_breath- contains a script that displays BREATH to the power LOVE
 file 11-binary_to_decimal-contains a script that converts a number from base 2 to base 10 
-file 12-combinations-a contains script that prints all possible combinations of two letters, except oo'\n'
+file 12-combinations-a contains script that prints all possible combinations of two letters, except oo <br />
 file 13-print_float- a script that prints a number with two decimal places, followed by a new line
